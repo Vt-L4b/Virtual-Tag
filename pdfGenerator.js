@@ -208,7 +208,6 @@ function gerarEtiquetas() {
     doc.setFont("helvetica", "normal");
     doc.text("virtual tag", 40, 35, { opacity: 0.2 });
 
-    doc.output("dataurlnewwindow");
-
+    window.open(doc.output('bloburl'));
 
 }
