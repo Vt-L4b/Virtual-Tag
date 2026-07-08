@@ -28,7 +28,7 @@ A API ViaCEP permite que o usuário insira apenas o CEP e tenha grande parte do 
 Eu programo majoritariamente em **Python** e atualmente estou estudando **React** para aprimorar minhas habilidades de front-end.  
 Por isso, trabalhar com jsPDF foi tanto uma solução quanto um desafio, a biblioteca é poderosa, mas exigiu bastante pesquisa e tentativa e erro.
 
-Com apoio de documentação, experimentações e auxílio de IA, consegui implementar tudo que precisava.  
+Com apoio de documentação e experimentações, consegui implementar tudo que precisava.  
 O desenvolvimento completo levou cerca de **seis horas**:  
 - ~2h para HTML, Tailwind e JavaScript puro  
 - alguns minutos para JsBarcode  
